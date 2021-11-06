@@ -1,0 +1,59 @@
+body{
+    margin:0;
+}
+
+.container {
+    display:flex;
+    height:100vh;
+    flex-direction:column;
+    justify-content: normal;
+}
+
+.zgoraj{
+    display:flex;
+    padding-bottom: 200px;
+    margin-right: 40px;
+    justify-content: right;
+    height:40px;
+    align-items: center;
+}
+a{padding:10px;
+}
+
+.google_slika{
+    width:40px;
+    border-radius:50%;
+}
+
+.google_apps{
+    width:40px;
+}
+
+.google_sredina{
+    display: flex;
+    padding:20px;
+    justify-content: center;
+}
+
+.boogle{
+    width:300px;
+}
+
+input{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:500px;
+    padding:20px;
+    border-radius:40px;
+    margin-bottom: 300px;
+}
+
+.customize{
+    display:flex;
+    border: lightgrey;
+    padding:10px;
+    text-align: center;
+    justify-content: 100hv;
+}
